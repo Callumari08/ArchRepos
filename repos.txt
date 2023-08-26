@@ -1,0 +1,5 @@
+# Packages
+sway
+
+# Repos
+https://github.com/jarun/nnn.git
